@@ -1,0 +1,29 @@
+js분리하여 링크
+정리를 잘하장 소스~
+자간!행간
+https://www.notion.so/238a486018c5495d9f60b144be8f1259?v=17892aeaf30147f78d59fcdc21e0fabc
+https://okky.kr/
+https://blog.grotesq.com/post/533
+
+프론트엔드 빌드 도구
+https://www.google.com/search?q=css+%EB%B6%84%EB%A6%AC+%ED%95%98%EB%82%98%EB%A1%9C&oq=css+%EB%B6%84%EB%A6%AC+%ED%95%98%EB%82%98%EB%A1%9C&aqs=chrome..69i57.5687j0j1&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=js+%EB%B6%84%EB%A6%AC&oq=js+%EB%B6%84%EB%A6%AC&aqs=chrome..69i57.2831j0j1&sourceid=chrome&ie=UTF-8
+https://dev.eyegood.co.kr/entry/html-css-%EA%B8%80%EC%9E%90%EA%B0%84%EA%B2%A9%EC%9E%90%EA%B0%84-%EC%A4%84%EA%B0%84%EA%B2%A9-%EC%A1%B0%EC%A0%88
+div태그 css
+시멘틱태그 css
+https://sambalim.tistory.com/104
+float=세로배치를 가로배치로
+flex=세로가로모두관여
+Sass(SCSS) 
+https://heropy.blog/2018/01/31/sass/
+oocss
+css 그리드는 아직 많이 안씀 호환문제
+반응형=미디어쿼리
+
+자바스크립트 api
+이미지 슬라이딩
+오픈 api(객체의 의미 파악) 내부api 어떤 프로퍼티 메소드? 사용하려는 객체 파악필요!
+알고리즘 구성능력, 알고리즘 순서도 필요! 하노이의탑
+플렉스박스로 레이아웃
+시멘틱태그
+자바스크립트 활용
